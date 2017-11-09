@@ -1,0 +1,15 @@
+@import '../../theme/palette';
+
+.leftBar {
+    width: 20em;
+    //outline: 3px solid #41eb58;
+    margin: 10px;
+    color: wheat;
+    .buttons{
+        margin-left: 5%;
+        display: flex ;
+        background-color: rgb(231, 212, 167);
+        color: rgb(63, 50, 15);
+
+    }
+}
